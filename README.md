@@ -38,7 +38,7 @@ This analysis includes:
 - Scatterplots
 - Correlation analysis
 - High rate and low rate period comparison
-- Linear Rehression
+- Linear Regression
 
 ## Key Findings
 
@@ -48,5 +48,5 @@ However, my regression models had low R squared values, meaning interest rates e
 
 ## Limitations
 
-This project uses time series data, so the results should not be interpreted as not because of causation. Other economic factors were not included in the regression.
+This project uses time series data, so the results should not be interpreted as because of causation. Other economic factors were not included in the regression.
 
