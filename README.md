@@ -46,6 +46,8 @@ The EDA and regression indicate a positive relationship between interest rates a
 
 However, my regression models had low R squared values, meaning interest rates explain only part of the variation in housing activity. I believe that other economic factors also play an important role.
 
+We reject the Null.
+
 ## Limitations
 
 This project uses time series data, so the results should not be interpreted as because of causation. Other economic factors were not included in the regression.
